@@ -1,2 +1,2 @@
 # EcoWaste
-Championing for an eco-friendly waste management
+Championing for eco-friendly waste management
