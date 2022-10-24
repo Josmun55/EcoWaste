@@ -8,12 +8,12 @@ npm install
 
 ### Compile, run and hot-reload development server
 ```
-nodemon server.js
+nodemon
 ```
 
 ### Compile and run development server
 ```
-node server.js
+node server
 ```
 
 ### Customize configuration
