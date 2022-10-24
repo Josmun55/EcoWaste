@@ -8,7 +8,7 @@ npm install
 
 ### Compile, run and hot-reload development server
 ```
-nodemon server
+nodemon
 ```
 
 ### Compile and run development server
