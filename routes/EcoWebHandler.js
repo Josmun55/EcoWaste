@@ -9,7 +9,7 @@ class EcoRouteHandler {
     attach(router) {
 
         router.get('/', function (request, response) {
-            response.redirect('./dashboard');
+            response.render('./dashboard');
         });
 
         router.get('/dashboard', function (request, response) {
