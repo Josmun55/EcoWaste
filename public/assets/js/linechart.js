@@ -3,18 +3,24 @@ new Chart(document.getElementById("linechart"), {
 	data: {
 		labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
 		datasets: [{
-			label: 'My First dataset',
+			label: 'Plastic',
 			backgroundColor: window.chartColors.navy,
 			borderColor: window.chartColors.navy,
 			data: [30,10,70,15,60,20,70,80],
 			fill: false,
 		}, {
-			label: 'My Second dataset',
+			label: 'Organic',
 			fill: false,
-			backgroundColor: window.chartColors.purple,
-			borderColor: window.chartColors.purple,
+			backgroundColor: window.chartColors.green,
+			borderColor: window.chartColors.green,
 			data: [10,40,20,35,25,50,10,70],
-		}]
+		}, {
+				label: 'Other',
+				fill: false,
+				backgroundColor: window.chartColors.purple,
+				borderColor: window.chartColors.purple,
+				data: [10,25,20,33,25,40,15,50],
+			}]
 	},
 	options: {
 		responsive: true,
