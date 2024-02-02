@@ -1,6 +1,8 @@
 # EcoWaste
 Championing for eco-friendly waste management
 
+EcoWaste is a central platform for managing eco-friendly waste disposal. Seamlessly monitor and optimize your recycling efforts, track waste contributions, and explore sustainable disposal methods to make a positive impact on the environment.
+
 ## Project setup
 ```
 npm install
